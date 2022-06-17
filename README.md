@@ -1,1 +1,1 @@
-# stmCorrviz
+# stmBrowser
